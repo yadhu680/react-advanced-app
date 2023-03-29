@@ -11,3 +11,58 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.user {
+  width: 400px;
+  margin: 50px auto;
+  padding: 50px;
+  background-color: #c0c0f0;
+  border-radius: 20px;
+}
+.header {
+  padding: 10px;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+.light {
+  background-color: #e0e0e0;
+  color: #101010;
+}
+.dark {
+  background-color: #101010;
+  color: #e0e0e0;
+}
+.content {
+  width: 500px;
+  padding: 50px;
+  margin: 50px auto;
+  text-align: center;
+}
+.main {
+  width: 800px;
+  padding: 50px;
+  margin: 50px auto;
+  background-color: #f0f0ff;
+  border-radius: 10px;
+}
+th {
+  text-align: left;
+}
+.pages {
+  width: 800px;
+  background-color: #f0f0ff;
+  margin: 50px auto;
+}
+.page-header {
+  padding: 10px;
+  background-color: #e0e0e0;
+}
+.page-content {
+  padding: 10px;
+  background-color: #f0f0f0;
+}
+.active {
+  font-weight: bold;
+}
