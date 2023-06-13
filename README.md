@@ -1,4 +1,4 @@
-# Advanced React App: React Hooks
+# React App: Advanced Concepts
 
 This is an advanced React App where you can learn with React Advanced Concepts such as `State Hook` `Effect Hook` `Context` `Reducer` `Router`
 
