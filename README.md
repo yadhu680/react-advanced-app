@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Advanced React App: React Hooks
+
+This is an advanced React App where you can learn with React Advanced Concepts such as `State Hook` `Effect Hook` `Context` `Reducer` `Router`
+
+Download and try yourself! Happy Coding :)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
